@@ -1,2 +1,2 @@
 # Geologist
-created by Anish Sonar
+Geologist Project
